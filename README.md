@@ -64,7 +64,7 @@ If you found the provided code with our paper useful in your work, we kindly req
 ```
 @inproceedings{su2024enhancing,
     title={Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training},
-    author={Chang Su and Jiexing Qi and He Yan and Xinbing Wan and Zhouhan Lin},
+    author={Chang Su and Jiexing Qi and He Yan and Kai Zou and Zhouhan Lin},
     booktitle={33rd ACM International Conference on Information and Knowledge Management},
     year={2024}
 }
