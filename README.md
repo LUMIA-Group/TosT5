@@ -2,7 +2,7 @@
 
 The official implementation of the paper "Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training" (CIKM 2024).
 
-![image](https://github.com/LUMIA-Group/TosT5/blob/main/pipeline.png)
+![image](https://github.com/LUMIA-Group/TosT5/blob/main/poster.pdf)
 
 ## Environment setup
 
